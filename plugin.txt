@@ -1,0 +1,5 @@
+name "Inhibitor Turret"
+about "Adds the Inhibitor Turret to Remnant planets."
+version 1
+authors
+	TheGiraffe3
