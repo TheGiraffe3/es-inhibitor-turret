@@ -1,2 +1,3 @@
 # es-inhibitor-turret
-Makes the Inhibitor Turret from Endless Sky available for purchase.
+
+Makes the Inhibitor Turret from [Endless Sky](https://github.com/endless-sky/endless-sky) available for purchase.
