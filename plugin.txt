@@ -1,5 +1,5 @@
 name "Inhibitor Turret Availability"
-about "Adds the Inhibitor Turret to Remnant planets."
+about "Makes the Inhibitor Turret show up in all Remnant outfitters."
 version 1.0
 authors
 	TheGiraffe3
