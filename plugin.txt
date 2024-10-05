@@ -1,4 +1,4 @@
-name "Inhibitor Turret"
+name "Inhibitor Turret Availability"
 about "Adds the Inhibitor Turret to Remnant planets."
 version 1
 authors
