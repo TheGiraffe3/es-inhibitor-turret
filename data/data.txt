@@ -1,0 +1,13 @@
+mission "Inhibitor Turret Plugin Installed"
+	landing
+	invisible
+	minor
+	to offer
+		random < 99
+	on offer
+		event "inhibitor turret available" 0
+		fail
+
+event "inhibitor turret available"
+	outfitter "Remnant Basics"
+		"Inhibitor Turret"
