@@ -9,5 +9,5 @@ mission "Inhibitor Turret Plugin Installed"
 		fail
 
 event "inhibitor turret available"
-	outfitter "Remnant Basics"
+	outfitter "Remnant"
 		"Inhibitor Turret"
